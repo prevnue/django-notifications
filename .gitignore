@@ -10,6 +10,6 @@ htmlcov
 .tox/
 .python-version
 .eggs/
-.venv/
+.venv/*
 test.sqlite3
 settings.json
